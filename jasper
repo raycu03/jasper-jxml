@@ -55,7 +55,7 @@
 				<reportElement mode="Opaque" x="0" y="0" width="111" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="7ae3a63c-fd54-4496-96d8-f6512de541dc">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="74df6c85-937e-4361-81de-e0a850d116e0"/>
 				</reportElement>
-				<textElement textAlignment="Center">
+				<textElement>
 					<font size="14" isBold="true"/>
 				</textElement>
 				<text><![CDATA[codigo]]></text>
@@ -64,7 +64,7 @@
 				<reportElement mode="Opaque" x="111" y="0" width="111" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="0384e6d5-7da9-4f06-b179-c1511bdad565">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="8e226058-201f-4dd0-84e7-3088dedb6a09"/>
 				</reportElement>
-				<textElement textAlignment="Center">
+				<textElement>
 					<font size="14" isBold="true"/>
 				</textElement>
 				<text><![CDATA[nombre]]></text>
@@ -73,7 +73,7 @@
 				<reportElement mode="Opaque" x="222" y="0" width="111" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="1e46be0d-114d-4a30-a619-d5accca6ec1d">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="aca5f2f6-fa5c-4c98-9aca-20785c0aa167"/>
 				</reportElement>
-				<textElement textAlignment="Center">
+				<textElement >
 					<font size="14" isBold="true"/>
 				</textElement>
 				<text><![CDATA[valor]]></text>
@@ -82,7 +82,7 @@
 				<reportElement mode="Opaque" x="333" y="0" width="111" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="160c28ab-fcbd-49f4-9d95-697fa4c95117">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="422b185e-bdb7-4648-8b6b-249807c1899e"/>
 				</reportElement>
-				<textElement textAlignment="Center">
+				<textElement>
 					<font size="14" isBold="true"/>
 				</textElement>
 				<text><![CDATA[fechaAct]]></text>
@@ -91,7 +91,7 @@
 				<reportElement mode="Opaque" x="444" y="0" width="111" height="20" forecolor="#006699" backcolor="#E6E6E6" uuid="c7a9fe1b-48d3-4408-90e1-7fc56b8a8ab7">
 					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="bc26daea-4df6-4c07-83b9-f9e7dfdce497"/>
 				</reportElement>
-				<textElement textAlignment="Center">
+				<textElement >
 					<font size="14" isBold="true"/>
 				</textElement>
 				<text><![CDATA[fechaCre]]></text>
