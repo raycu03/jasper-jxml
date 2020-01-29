@@ -157,7 +157,7 @@
 		<band height="17">
 			<textField>
 				<reportElement mode="Opaque" x="0" y="4" width="515" height="13" backcolor="#E6E6E6" uuid="08dcd925-ca98-48a8-a8ce-ddf78fc522bf"/>
-				<textElement textAlignment="Right"/>
+				<textElement/>
 				<textFieldExpression><![CDATA["Page "+$V{PAGE_NUMBER}+" of"]]></textFieldExpression>
 			</textField>
 			<textField evaluationTime="Report">
