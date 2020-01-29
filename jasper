@@ -4,8 +4,6 @@
 	<queryString language="SQL">
 		<![CDATA[SELECT codigo from productos]]>
 	</queryString>
-	<field name="id" class="java.lang.String">
-	</field>
 	<field name="fecha_actualizacion" class="java.util.Date">
 	</field>
 	<field name="fecha_creacion" class="java.util.Date">
